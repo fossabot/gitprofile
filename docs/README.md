@@ -7,9 +7,6 @@
 
 This is a **fork** and **my modified** version of [GitProfile](https://github.com/mirzasaikatahmmed) project. The repo is used for my public web portfolio. So it will be modified with some more features and customization.
 
-
-> Thank you @arifszn brother for this cool project �
-
 The full & upstream documentaion can be found [here](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/README.md)
 
 ### Setting up GitHub Pages Deployment
