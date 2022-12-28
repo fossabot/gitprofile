@@ -24,6 +24,7 @@ const config = {
   },
   skills: [
     'C++',
+    'Java',
     'PHP',
     'Python',
     'Linux',
