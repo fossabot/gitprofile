@@ -44,8 +44,6 @@ const config = {
     // 'Antd',
     // 'Tailwind',
     'Bootstrap',
-    'Java',
-    'Photography'
   ],
   experiences: [
     {
