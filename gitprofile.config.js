@@ -48,10 +48,16 @@ const config = {
   ],
   experiences: [
     {
+      company: 'AIUB Computer Club',
+      position: 'General Member',
+      from: 'September 2022',
+      to: 'Present',
+    },
+    {
       company: 'Willes Photography Club',
       position: 'Chief Executive',
       from: 'March 2021',
-      to: 'Present',
+      to: 'September 2022',
     },
     {
       company: 'Mirza Saikat Ahmmed',
