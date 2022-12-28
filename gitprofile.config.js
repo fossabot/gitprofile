@@ -53,6 +53,18 @@ const config = {
       to: 'Present',
     },
     {
+      company: 'Leo Club of Dhaka Dilkusha',
+      position: 'General Member',
+      from: 'October 2022',
+      to: 'Present',
+    },
+    {
+      company: 'উৎসর্গ-Uthshargo',
+      position: 'Information Promotion and Publications Editor',
+      from: 'June 2022',
+      to: 'Present',
+    },
+    {
       company: 'Willes Photography Club',
       position: 'Chief Executive',
       from: 'March 2021',
