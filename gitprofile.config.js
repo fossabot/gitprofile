@@ -18,8 +18,8 @@ const config = {
     behance: '',
     medium: '',
     dev: 'mirzasaikatahmmed',
-    website: 'https://mirzasaikatahmmed.github.io',
-    phone: '',
+    website: 'https://mirzasaikatahmmed.info',
+    phone: '+8801571195489',
     email: 'mirzasaikatahmmed@gmail.com',
   },
   skills: [
