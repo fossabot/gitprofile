@@ -55,7 +55,7 @@ The full & upstream documentaion can be found [here](https://github.com/mirzasai
 
 ## 💡 Contribute
 
-To contribute, see the [Contributing guide](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/CONTRIBUTING.md).
+To contribute, see the [Contributing guide](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/docs/CONTRIBUTING.md).
 
 ## 📄 License
 
