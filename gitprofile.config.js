@@ -103,6 +103,23 @@ const config = {
       to: '2019',
     },
   ],
+
+  externalProjects: [
+    {
+      title: 'Project Name',
+      description: 'Description',
+      link: 'https://example.com',
+      imageUrl: 'https://via.placeholder.com/250x250',
+    },
+    {
+      title: 'Project Name',
+      description: 'Description',
+      link: 'https://example.com',
+      imageUrl: 'https://via.placeholder.com/250x250',
+    },
+  ],
+
+
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
