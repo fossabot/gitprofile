@@ -46,6 +46,17 @@ The full & upstream documentaion can be found [here](https://github.com/mirzasai
   - Edit the `vite.config.js` file's `base` property according to your needs. If you are deploying to `https://<USERNAME>.github.io`, set base to `'/'`. If you are deploying to `https://<USERNAME>.github.io/<REPO>/`, then set base to `'/<REPO>/'`.
 
 
+## 💖 Support
+
+<p>You can show your support by starring this project. ★</p>
+<a href="https://github.com/mirzasaikatahmmed/gitprofile/stargazers">
+  <img src="https://img.shields.io/github/stars/mirzasaikatahmmed/gitprofile?style=social" alt="Github Star">
+</a>
+
+## 💡 Contribute
+
+To contribute, see the [Contributing guide](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/CONTRIBUTING.md).
+
 ## 📄 License
 
 **GitProfile** is licensed under the [Apache-2.0 License](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/LICENSE).
