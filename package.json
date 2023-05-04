@@ -38,6 +38,7 @@
     "prettier:fix": "prettier --write \"./**/*.{js,jsx,ts,tsx,css,md,json}\""
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001482",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
