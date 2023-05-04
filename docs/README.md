@@ -30,7 +30,7 @@
   </p>
   
   
-<p align="center"><a href="https://mirzasaikatahmmed.netlify.io">Mirza Saikat Ahmmed's Public Portfolio</a> implementation Using <a href="https://github.com/mirzasaikatahmmed">Profile</a> Project</p>
+<p align="center"><a href="https://mirzasaikatahmmed.github.io/gitprofile/">Mirza Saikat Ahmmed's Public Portfolio</a> implementation Using <a href="https://github.com/mirzasaikatahmmed">Profile</a> Project</p>
 
 <img title="tste" src="./res/Full%20Page%20Snapshot.png">
 
