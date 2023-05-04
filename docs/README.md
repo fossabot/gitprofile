@@ -6,7 +6,7 @@
     <a href="https://codeclimate.com/github/mirzasaikatahmmed/gitprofile/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" />
     </a>
-    <a href="https://github.com/mirzasaikatahmmed/gitprofile/actions/workflows/test-deploy.yml">
+    <a href="https://github.com/mirzasaikatahmmed/gitprofile/actions/workflows/deploy.yml">
       <img src="https://github.com/mirzasaikatahmmed/gitprofile/actions/workflows/test-deploy.yml/badge.svg" />
     </a>
     <a href="https://github.com/mirzasaikatahmmed/gitprofile/issues">
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
     </a>
     <a href="https://github.com/mirzasaikatahmmed/gitprofile/blob/main/LICENSE">
-      <img src="https://img.shields.io/mirzasaikatahmmed/license/arifszn/gitprofile"/>
+      <img src="https://img.shields.io/github/license/mirzasaikatahmmed/gitprofile"/>
     </a>
   </p>
   
