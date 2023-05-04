@@ -104,20 +104,20 @@ const config = {
     },
   ],
 
-  externalProjects: [
-    {
-      title: 'Project Name',
-      description: 'Description',
-      link: 'https://example.com',
-      imageUrl: 'https://via.placeholder.com/250x250',
-    },
-    {
-      title: 'Project Name',
-      description: 'Description',
-      link: 'https://example.com',
-      imageUrl: 'https://via.placeholder.com/250x250',
-    },
-  ],
+  // externalProjects: [
+  //   {
+  //     title: 'Project Name',
+  //     description: 'Description',
+  //     link: 'https://example.com',
+  //     imageUrl: 'https://via.placeholder.com/250x250',
+  //   },
+  //   {
+  //     title: 'Project Name',
+  //     description: 'Description',
+  //     link: 'https://example.com',
+  //     imageUrl: 'https://via.placeholder.com/250x250',
+  //   },
+  // ],
 
 
   // Display blog posts from your medium or dev account. (Optional)
