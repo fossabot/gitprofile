@@ -50,9 +50,19 @@ export interface Social {
   twitter?: string;
 
   /**
+   * Mastodon
+   */
+  mastodon?: string;
+
+  /**
    * Facebook
    */
   facebook?: string;
+
+  /**
+   * Instagram
+   */
+  instagram?: string;
 
   /**
    * Dribbble
@@ -75,9 +85,24 @@ export interface Social {
   dev?: string;
 
   /**
+   * Stack Overflow
+   */
+  stackoverflow?: string;
+
+  /**
    * Website
    */
   website?: string;
+
+  /**
+   * Skype username
+   */
+  skype?: string;
+
+  /**
+   * Telegram username
+   */
+  telegram?: string;
 
   /**
    * Phone
@@ -182,6 +207,11 @@ export interface ThemeConfig {
   respectPrefersColorScheme?: boolean;
 
   /**
+   * Hide the ring in Profile picture
+   */
+  hideAvatarRing?: boolean;
+
+  /**
    * Available themes
    */
   themes?: Array<string>;
@@ -197,6 +227,20 @@ export interface Experience {
   position?: string;
   from?: string;
   to?: string;
+  companyLink?: string;
+}
+export interface Certifications {
+  body?: string;
+  name?: string;
+  year?: string;
+  link?: string;
+}
+
+export interface ExternalProjects {
+  title: string;
+  description: string;
+  imageUrl?: string;
+  link: string;
 }
 
 export interface Education {
@@ -204,6 +248,10 @@ export interface Education {
   degree?: string;
   from?: string;
   to?: string;
+}
+
+export interface Resume {
+  fileUrl?: string;
 }
 
 export interface Config {
@@ -218,6 +266,11 @@ export interface Config {
   social?: Social;
 
   /**
+   * Resume
+   */
+  resume?: Resume;
+
+  /**
    * Skill list
    */
   skills?: Array<string>;
@@ -226,6 +279,16 @@ export interface Config {
    * Experience list
    */
   experiences?: Array<Experience>;
+
+  /**
+   * External Projects
+   */
+  externalProjects?: Array<ExternalProjects>;
+
+  /**
+   * Certifications list
+   */
+  certifications?: Array<Certifications>;
 
   /**
    * Education list
@@ -251,6 +314,11 @@ export interface Config {
    * Theme config
    */
   themeConfig?: ThemeConfig;
+
+  /**
+   * Custom footer
+   */
+  footer?: string;
 }
 
 export interface GitProfileProps {
