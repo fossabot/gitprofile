@@ -4,7 +4,7 @@
 
 If you have found an issue or would like to request a new feature, simply create a new issue detailing the request. We also welcome pull requests. See below for information on getting started with development and submitting pull requests.
 
-Please note we have a [code of conduct](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://github.com/mirzasaikatahmmed/gitprofile/blob/main/docs/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 ## Found an Issue?
 
