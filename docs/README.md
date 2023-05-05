@@ -9,6 +9,7 @@
     <a href="https://github.com/mirzasaikatahmmed/gitprofile/actions/workflows/deploy.yml">
       <img src="https://github.com/mirzasaikatahmmed/gitprofile/actions/workflows/deploy.yml/badge.svg" />
     </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmirzasaikatahmmed%2Fgitprofile?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmirzasaikatahmmed%2Fgitprofile.svg?type=shield"/></a>
     <a href="https://github.com/mirzasaikatahmmed/gitprofile/issues">
       <img src="https://img.shields.io/github/issues/mirzasaikatahmmed/gitprofile"/>
     </a>
@@ -33,6 +34,9 @@
 <p align="center"><a href="https://mirzasaikatahmmed.github.io/gitprofile/">Mirza Saikat Ahmmed's Public Portfolio</a> implementation Using <a href="https://github.com/mirzasaikatahmmed">Profile</a> Project</p>
 
 <img title="tste" src="./res/Full%20Page%20Snapshot.png">
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmirzasaikatahmmed%2Fgitprofile.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmirzasaikatahmmed%2Fgitprofile?ref=badge_large)
 
 ## Disclaimer
 
